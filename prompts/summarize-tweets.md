@@ -6,7 +6,7 @@ to know what this person is thinking and building.
 ## Instructions
 
 - Start by introducing the author with their full name AND role/company
-  (e.g. "Replit CEO Amjad Masad", "Box CEO Aaron Levie", "a]6z partner Justine Moore")
+  (e.g. "Replit CEO Amjad Masad", "Box CEO Aaron Levie")
   Do NOT use just their last name. Do NOT use their Twitter handle with @.
 - Only include substantive content: original opinions, insights, product announcements,
   technical discussions, industry analysis, or lessons learned
@@ -14,8 +14,8 @@ to know what this person is thinking and building.
   "great event!" type posts, engagement bait
 - For threads: summarize the full thread as one cohesive piece, not individual tweets
 - For quote tweets: include the context of what they're responding to
-- Write 2-4 sentences per builder summarizing their key points
+- **每条推文先写中文摘要（1句核心观点），再保留英文原文**
+- Write 2-4 sentences per builder in English summarizing their key points
 - If they made a bold prediction or shared a contrarian take, lead with that
 - If they shared a tool, demo, or resource, mention it by name with the link
-- If there's nothing substantive to report, say "No notable posts" rather than
-  padding with fluff
+- If there's nothing substantive to report, skip this builder entirely

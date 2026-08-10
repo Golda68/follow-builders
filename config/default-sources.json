@@ -73,6 +73,14 @@
     { "name": "Dan Shipper", "handle": "danshipper" },
     { "name": "Aditya Agarwal", "handle": "adityaag" },
     { "name": "Sam Altman", "handle": "sama" },
-    { "name": "Claude", "handle": "claudeai" }
+    { "name": "Claude", "handle": "claudeai" },
+    { "name": "Yann LeCun", "handle": "ylecun" },
+    { "name": "Andrew Ng", "handle": "AndrewYNg" },
+    { "name": "Hugging Face", "handle": "huggingface" },
+    { "name": "Mistral AI", "handle": "MistralAI" },
+    { "name": "Cursor", "handle": "cursor_ai" },
+    { "name": "Windsurf", "handle": "codeiumdev" },
+    { "name": "Devin", "handle": "devin_ai" },
+    { "name": "Vercel", "handle": "vercel" }
   ]
 }

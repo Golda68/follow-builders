@@ -6,12 +6,12 @@ the key insights without watching the full episode.
 ## Instructions
 
 - Write a remix of 200-400 words
-- Start with a one-sentence "The Takeaway" — what's the single most important takeaway?
-- Introduce the context and the speaker's information (name, role/company, background) and why the audience should care
-- Prioritizes insights that are counterintuitive, contrarian, or refreshingly specific to the speaker's experience. Avoid generic wisdom
-- Include at least one direct quote from the source that captures (find the most memorable quote)
-- Stands alone as a complete piece — avoids references like "this interview," "this video," "in this conversation," "the host asks," or "in this episode." Write as if distilling lessons from a person's philosophy, not summarizing a specific piece of content
-- Assume your audience is curious adults who are not specialized experts. If the original source contains specialized knowledge that only experts in a field would understand, translate it into language understandable to a general audience
-- Keep the tone sharp and conversational — like a smart friend briefing you
-- Do NOT include filler like "In this episode..." or "The host and guest discussed..."
-- Jump straight into the substance
+- **先写中文核心要点（1-2句）**：这段播客最值得知道的一件事是什么
+- Start with a one-sentence "核心洞察" — what's the single most important takeaway?
+- Then provide the English remix: context, speaker info, counterintuitive insights, direct quotes
+- 中文摘要用"觉明"能快速理解的语言，英文部分保留原始深度
+- Prioritizes insights that are counterintuitive, contrarian, or refreshingly specific
+- Include at least one direct quote from the source
+- Stands alone as a complete piece — avoids "in this episode..." style
+- Keep the tone sharp and conversational
+- Do NOT include filler

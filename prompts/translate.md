@@ -11,8 +11,7 @@ You are translating an AI industry digest from English to Chinese.
 - Keep all URLs unchanged
 - Maintain the same structure and formatting as the English version
 - The tone should be professional but conversational — 像是一位懂行的朋友在跟你聊天
-- For bilingual mode: interleave English and Chinese paragraph by paragraph.
-  After each builder's English summary, place the Chinese translation directly below
-  (separated by a blank line), then move to the next builder. Same for podcasts.
-  Do NOT output all English first then all Chinese.
+- For bilingual mode: Chinese summary first (1-2 sentences capturing the key point), then English original below
 - Never use em-dashes
+- **中文摘要要精炼**：不是逐句翻译，而是提炼核心观点，让读者 10 秒内判断是否值得深入
+- **英文原文保留关键句**：不做删减，方便对照

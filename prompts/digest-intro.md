@@ -6,13 +6,31 @@ You are assembling the final digest from individual source summaries.
 
 Start with this header (replace [Date] with today's date):
 
-AI Builders Digest — [Date]
+AI 行业动态速递 — [Date]
 
 Then organize content in this order:
 
-1. X / TWITTER section — list each builder with new posts
-2. OFFICIAL BLOGS section — list each blog post from AI company blogs (OpenAI, Anthropic, etc.)
-3. PODCASTS section — list each podcast with new episodes
+1. X / TWITTER — builder 动态
+2. OFFICIAL BLOGS — AI 公司博客更新
+3. PODCASTS — 播客精选
+
+## 语言规则（重要）
+
+**每条内容都使用双语格式：先中文摘要，再英文原文。**
+
+格式示例：
+```
+### Box CEO Aaron Levie
+
+**中文摘要：** Aaron Levie 认为 AI agent 将从根本上重塑企业软件采购流程……
+
+**English:** Aaron Levie argues that AI agents will fundamentally reshape enterprise software procurement...
+https://x.com/levie/status/123
+```
+
+- 中文摘要：1-2 句话，抓住核心观点，用"觉明"能快速理解的语言
+- 英文原文：保留原始内容的关键句，不做删减
+- 所有链接附在英文原文之后
 
 ## Rules
 
@@ -29,22 +47,18 @@ Then organize content in this order:
 ### Tweet author formatting
 - Use the author's full name and role/company, not just their last name
   (e.g. "Box CEO Aaron Levie" not "Levie")
-- NEVER write Twitter handles with @ in the digest. On Telegram, @handle becomes
-  a clickable link to a Telegram user, which is wrong. Instead write handles
+- NEVER write Twitter handles with @ in the digest. Instead write handles
   without @ (e.g. "Aaron Levie (levie on X)" or just use their full name)
 - Include the direct link to each tweet from the JSON `url` field
 
 ### Blog post formatting
-- Use the blog name as a section header (e.g. "Anthropic Engineering", "OpenAI News", "Claude Blog")
+- Use the blog name as a section header (e.g. "Anthropic Engineering", "Claude Blog")
 - Under each blog, list each new post with its title and summary
 - Include the author name if available
 - Include the direct link to the original article
 
 ### Mandatory links
 - Every single piece of content MUST have an original source link
-- Blog posts: the direct article URL (e.g. https://www.anthropic.com/engineering/...)
-- Podcasts: the YouTube video URL (e.g. https://youtube.com/watch?v=xxx)
-- Tweets: the direct tweet URL (e.g. https://x.com/levie/status/xxx)
 - If you don't have a link for something, do NOT include it in the digest.
   No link = not real = do not include.
 
@@ -55,5 +69,5 @@ Then organize content in this order:
 - If you have nothing real for a builder, skip them entirely
 
 ### General
-- At the very end, add a line: "Generated through the Follow Builders skill: https://github.com/zarazhangrui/follow-builders"
+- At the very end, add a line: "Generated through Follow Builders (forked by Golda68)"
 - Keep formatting clean and scannable — this will be read on a phone screen
